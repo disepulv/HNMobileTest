@@ -7,6 +7,7 @@ News Feed (demo app)
 
 
 Shows news feed with title (or short title), author and creation date. And shows web page related with news.
+(no design was included in this app :S)
 
 ![](screenshot1.png)
 ![](screenshot2.png)
