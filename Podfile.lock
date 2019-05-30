@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - iToast (0.0.1)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - iToast (~> 0.0.1)
+  - Reachability (~> 3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  iToast: df147188215cc3293bd4366822833f2862fec451
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: b29375f9b3e44316d699c7e3874ae8c679304ed2
+
+COCOAPODS: 1.2.0
