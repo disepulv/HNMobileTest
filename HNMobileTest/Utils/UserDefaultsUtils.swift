@@ -77,4 +77,10 @@ class UserDefaultsUtils {
         return []
     }
 
+    class func clearData() -> Void {
+        let defaults = UserDefaults.standard
+        defaults.removeObject(forKey: "deletedHits")
+        defaults.removeObject(forKey: "hits")
+    }
+
 }
